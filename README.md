@@ -1,8 +1,8 @@
 ## Note
 
-__This is a fork of iamshaunjp's app with functional components and react-redux-firebase v3.0.
+**This is a fork of iamshaunjp's app with functional components and react-redux-firebase v3.0.**
 
-To run it adjust .firebaserc and src/config/fbConfig.js accordingly.__
+**To run it adjust .firebaserc and src/config/fbConfig.js accordingly.**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
